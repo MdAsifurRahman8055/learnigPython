@@ -24,4 +24,4 @@ ptrn = r"[A-Z]+[a-z]+[0-9]+"
 if (re.match(ptrn,"Adda06")):
     print("matched")
 else:
-    print("not matched")
+    print("not matched t")
